@@ -11,6 +11,7 @@ Working Hackintosh configuration running MacOS Ventura 13.2.1
 - Broadcom BCM943602CS
 - SMIBIOS MacPro7,1
 - OpenCore 0.9.0 RELEASE
+
 ![Scr18 at 14 32 52](https://user-images.githubusercontent.com/7040503/226106431-2620d418-8a50-4db1-9529-4af5d2b9a527.png)
 
 This configuration has RX 6600 GPU as main GPU and CPU GPU Intel UHD 630 disabled. 
