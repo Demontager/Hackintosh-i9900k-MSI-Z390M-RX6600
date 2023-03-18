@@ -1,7 +1,6 @@
 # Hackintosh-i9900k-MSI-Z390M-RX6600
 Hackintosh Ventura 13.2.1 on i9900k-MSI-Z390M-RX6600 dGPU
 
-Working Hackintosh configuration running MacOS Ventura 13.2.1
 
 - Motherboard: MSI-Z390-AC-GAMING-EDGE (MS-7B50) Bios ver. 7B50v1C2
 - CPU: Intel i9-9900K Coffee Lake  
