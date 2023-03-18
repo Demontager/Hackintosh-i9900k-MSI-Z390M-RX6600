@@ -14,7 +14,7 @@ Working Hackintosh configuration running MacOS Ventura 13.2.1
 
 ![Scr18 at 14 32 52](https://user-images.githubusercontent.com/7040503/226106431-2620d418-8a50-4db1-9529-4af5d2b9a527.png)
 
-This configuration has RX 6600 GPU as main GPU and CPU GPU Intel UHD 630 disabled. 
+This configuration has RX 6600 GPU as main GPU and integrated Intel UHD 630 disabled. 
 To get full compatibily with Ventura native WI-FI BCM943602CS used which has been installed in pci-ex slot. No need any additional kext.
 ![Screenshot 2023-03-18 at 14 32 17](https://user-images.githubusercontent.com/7040503/226106759-9b80bdb5-0877-4bf9-a69c-f2dc9afecfff.png)
 
