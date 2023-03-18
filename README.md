@@ -62,4 +62,10 @@ Note: USBPorts.kext should be configured on target system to fit desired USB por
 ![usb_map_refrence (1)](https://user-images.githubusercontent.com/7040503/190871487-0bde8041-faaf-4d50-8f83-18f75b65ba53.png)
 
 ## Benchmarks
-![Screenshot 2023-03-11 at 18 53 52](https://user-images.githubusercontent.com/7040503/226106843-2633fdfb-adfc-439f-9f41-c92abd9c3a18.png)
+![Screenshot 2023-03-18 at 14 57 56](https://user-images.githubusercontent.com/7040503/226112181-a9183f0e-0d81-4d21-bb5d-ac47009aac9f.png)
+
+![Screenshot 2023-03-18 at 14 59 12](https://user-images.githubusercontent.com/7040503/226112197-311d5c85-76cf-4a80-bfae-cf848025d088.png)
+![Screenshot 2023-03-18 at 15 00 03](https://user-images.githubusercontent.com/7040503/226112205-c9d79f7a-43fa-4f22-b8dc-c7cd4c6cfda8.png)
+
+
+![Screenshot 2023-03-18 at 15 06 39](https://user-images.githubusercontent.com/7040503/226112137-116bccad-b83b-4fa5-aa64-5f28f0229e5b.png)
